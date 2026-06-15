@@ -6,7 +6,7 @@ Este projeto apresenta a modelagem e implementação de um banco de dados para u
 
 # Cenário
 
-A clínica veterinária **PetVida** realiza atendimentos para animais, como cães e gatos. Para melhorar a organização das informações, a clínica precisa de um sistema de banco de dados capaz de armazenar dados sobre clientes, seus pets, veterinários, especialidades, consultas e vacinação.
+A clínica veterinária realiza atendimentos para animais, como cães e gatos. Para melhorar a organização das informações, a clínica precisa de um sistema de banco de dados capaz de armazenar dados sobre clientes, seus pets, veterinários, especialidades, consultas e vacinação.
 
 Cada cliente pode possuir um ou mais pets cadastrados. Cada pet pertence a apenas um cliente. Os pets podem passar por várias consultas ao longo do tempo, sendo cada consulta realizada por um veterinário.
 
